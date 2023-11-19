@@ -1,3 +1,3 @@
 # SFTP on Azure
-
-![OpenSSH logo](./images/openssh.gif "Powered by OpenSSH").[EOF]
+## Architecture
+![Architecture](./images/sftp-on-azure-architecture.png "Set up SFTP on Azure").[EOF]
